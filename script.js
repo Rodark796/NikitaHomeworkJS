@@ -23,7 +23,6 @@ document.addEventListener('Name', function(){
 // Напишите таймер, или просто отсчётчик, который будет прибавлять +1 каждую секунду. 
 // Если Вы закроете вкладку, но потом вернётесь снова - он продолжит счётчик дальше.
 
-
 function Timer(){
     var elem = document.getElementById('timer');
     elem.value = parseInt(elem.value)+1;
