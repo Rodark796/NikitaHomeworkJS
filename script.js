@@ -31,3 +31,4 @@ function Timer(){
  function start() {
     window.TimerId = window.setInterval(Timer, 1000);
  }
+ 
